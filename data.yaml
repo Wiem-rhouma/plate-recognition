@@ -1,0 +1,8 @@
+path: C:/Users/wiwir/plate-recognition/data/dataset
+
+train: train
+val: test
+
+nc: 1
+names:
+  0: LP
